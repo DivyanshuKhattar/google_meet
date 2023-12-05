@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117270389578",
+    "project_id": "meet-b290b",
+    "storage_bucket": "meet-b290b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117270389578:android:33abe12c0ecf3bedf857b3",
+        "android_client_info": {
+          "package_name": "com.example.google_meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1s0SYyh3gD0y6i9SFTKuoIKdHIbl3Cn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
